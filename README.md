@@ -1,6 +1,6 @@
 # Pilpres-2019-Twitter-Sentiment-Analysis
 
-![Pilpres 2019](https://github.com/user-attachments/assets/b4a6b3f2-0166-4967-b730-db7a481a147d)
+![image](https://github.com/user-attachments/assets/77a6ace0-1754-4c60-a239-b92bd95a85d8)
 
 
 
